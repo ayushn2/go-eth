@@ -36,3 +36,4 @@ func main(){
 	fmt.Println("Add ",crypto.PubkeyToAddress(key.PrivateKey.PublicKey).Hex())
 
 }
+
